@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TNGB JL Calculator</string>
+    <string name="ajl_7_name">AJL 7%</string>
+    <string name="ajl_other_name">AJL Others</string>
+    <string name="smejl_name">SMEJL</string>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="loan_disbursed_date">Loan Disbursed Date</string>
+    <string name="loan_closure_date">Loan Closure Date</string>
+    <string name="rate_of_interest">Rate of Interest</string>
+    <string name="fixed_7">7%</string>
+    <string name="calculate">Calculate</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="date_range_picker_helper_text">Select the date range from date picker by clicking on the calender icon</string>
+    <string name="subvention_amount">Subvention Amount</string>
+    <string name="loan_closure_amount">Loan Closure Amount</string>
+    <string name="subvention_name">Subvention</string>
+    <string name="eligible_name">Eligible</string>
+    <string name="not_eligible_name">Not Eligible</string>
+</resources>
